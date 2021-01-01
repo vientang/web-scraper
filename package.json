@@ -1,0 +1,12 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "a simple web scraper",
+  "main": "index.js",
+  "scripts": {
+    "venv": "python3 -m venv virtual-env"
+  },
+  "keywords": [],
+  "author": "Vien Tang",
+  "license": "ISC"
+}
